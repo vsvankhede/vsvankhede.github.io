@@ -94,6 +94,7 @@ GEM
       jekyll (>= 3.0)
     json (1.8.3)
     kramdown (1.11.1)
+    leonids (0.1.1)
     liquid (3.0.6)
     listen (3.0.6)
       rb-fsevent (>= 0.9.3)
@@ -134,6 +135,7 @@ PLATFORMS
 
 DEPENDENCIES
   github-pages
+  leonids (~> 0.1.1)
 
 BUNDLED WITH
    1.13.2
