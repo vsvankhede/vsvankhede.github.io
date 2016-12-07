@@ -1,7 +1,7 @@
 ---
+title: About
 layout: page
-title: About Pixyll
-permalink: /about/
+permalink: "/about/"
 tags: about
 ---
 
