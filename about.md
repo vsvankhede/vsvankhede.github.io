@@ -5,7 +5,7 @@ permalink: "/about/"
 tags: about
 ---
 
-I'm Android Software Engineer. I write code to build the solution for real work problems. 
+I'm Android Software Engineer. I like to solve the problems by writing the code.
 
 Following links to my webpresence:
 
