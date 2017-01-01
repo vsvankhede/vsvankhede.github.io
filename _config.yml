@@ -32,7 +32,7 @@ fb_page_id:
 
 # Disqus post comments
 # (leave blank to disable Disqus)
-disqus_shortname: vsvankhede
+disqus_shortname: vstechlab
 
 # Facebook Comments plugin
 # (leave blank to disable Facebook Comments, otherwise set it to true)
@@ -41,10 +41,10 @@ facebook_appid:
 facebook_comments_number: 10
 
 # Social icons
-github_username:
+github_username: vsvankhede
 bitbucket_username:
 stackoverflow_id:
-twitter_username:
+twitter_username:vsvankhede
 skype_username:
 steam_nickname:
 google_plus_id:
@@ -59,8 +59,8 @@ flattr_button:
 show_sharing_icons: false
 # Change to 'true' to enable individual icons
 share_facebook: false
-share_twitter: false
-share_googleplus: false
+share_twitter: true
+share_googleplus: true
 share_linkedin: false
 share_digg: false
 share_tumblr: false
