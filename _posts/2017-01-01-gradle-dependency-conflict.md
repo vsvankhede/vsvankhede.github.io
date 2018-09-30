@@ -4,7 +4,6 @@ layout: post
 ---
 
 While developing android application sometimes you may have faced dependency version conflict error during gradle build. If you are not familiar with the gradle build system and its dependency management then you might get stuck due to this.
-![cartoon](http://i.imgur.com/6n24q3l.jpg)
 
 In this blog post, we will see two different methods to resolve this dependency version conflict. But before that, we have to know what’s the “Transitive Dependency”?
 
