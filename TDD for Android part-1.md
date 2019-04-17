@@ -1,6 +1,6 @@
 ---
 title: TDD for Android part-1
-layout: post
+layout: page
 ---
 
 This is an introductory part of TDD for Android series. In this first part you will find why I've decided to follow TDD for Android application.
@@ -16,10 +16,3 @@ I decided to build a small Android application with TDD approach. I will try to 
 You can find AndroidTDD repository on [Github](https://github.com/vsvankhede/AndroidTDD). I'm also using Circle CI server for build and test automation.
 
 **Bonus:** If you are interested only in knowing about some specific techniques or example which I've/ll used for writing Unit and Integration tests in Android then you can find [Android Testing Example](https://github.com/vsvankhede/AndroidTestingExample) repository helpful.
-
-
-
-
-
-
-
