@@ -20,8 +20,8 @@ Outout: Node 4 from this list
 ```
 
 ## Solution
-### Approach 1: Calculate listed list size
-Traverse linked list from head to tail, and count the number nodes in the linked list. Then find the mid using linkedlist size which is `size/2`. Now traverse linked list from head to mid point to get middle node.
+### Approach 1: Calculate list size
+Traverse list from head to tail, and count the number nodes in the linked list. Then find the mid of list using list size which is `size/2`. Traverse list again from head to the midpoint and return middle node.
 
 ```java
 class Solution {
@@ -50,7 +50,7 @@ class Solution {
 * Space Complexity: O(1), the space used by int and ListNode variables.
 
 ### Approach 2: Fast and Slow Poniter
-Traverse list with two pointer slow and fast. Fast pointer traverses twice as fast then slow. When fast pointer reaches the end of the list, slow pointer must be in the middle.
+Traverse list with two pointers slow and fast. Fast pointer traverses twice as fast then slow. When the fast pointer reaches the end of the list, the slow pointer must be in the middle.
 
 ```java
 class Solution {
