@@ -5,7 +5,7 @@ permalink: "/about/"
 tags: about
 ---
 
-I'm Android Software Engineer. I like to solve the problems by writing the code.
+My name is Vijay Vankhede and I’m software engineer (mainly Android).  This is my personal blog where I publish technical articles about android and general software engineering. 
 
 Following links to my webpresence:
 
