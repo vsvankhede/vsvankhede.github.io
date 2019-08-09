@@ -1,10 +1,21 @@
 # Site settings
 title:       vsvankhede
-email:       vijay.s.vankhede@live.com
+email:       vijay.s.vankhede@gmail.com
 author:      Vijay Vankhede
-description: "Android enthusiasts, coder and hacker."
+description: "Software Engineer"
 url:         "https://vsvankhede.github.io/"
 date_format: "%b %-d, %Y"
+theme: plainwhite
+
+plainwhite:
+  name: Vijay Vankhede
+  tagline: Developer
+  date_format: "%b %-d, %Y"
+
+  social_links:
+    twitter: vsvankhede
+    github:  vsvankhede
+    # linkedIn: in/thelehhman # format: locale/username
 
 # Google services
 google_verification:

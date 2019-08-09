@@ -5,9 +5,8 @@ permalink: "/about/"
 tags: about
 ---
 
-My name is Vijay Vankhede and I’m software engineer (Android).  This is my personal blog where I publish technical articles about android and general software engineering. 
+Hi, Glad to see you here. I'm Vijay Vankhede author of this blog. I'm having over 5 years experience of writing Android applications and SDKs from the ‘ground up’, with a passion for good design & code quality.  You can check my web presence and resume linked below.
 
-Following links to my webpresence:
-
+* [Resume]()
 * [Github](https://github.com/vsvankhede)
 * [Twitter](https://twitter.com/vsvankhede)
