@@ -9,6 +9,6 @@ Hi, I'm Vijay Vankhede having over 5 years experience of writing Android applica
 
 You can check my web presence and resume linked below.
 
-* [Resume](https://drive.google.com/file/d/14EBrO33hAGeZGDPqEspGfp1Nm72MSYNr/view?usp=sharing)
+* [Resume](https://storage.googleapis.com/cryptogrowth.appspot.com/Vijay%20Vankhede%20-%20Sr%20Android%20Developer.pdf)
 * [Github](https://github.com/vsvankhede)
 * [Twitter](https://twitter.com/vsvankhede)
