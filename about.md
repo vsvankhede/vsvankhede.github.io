@@ -5,7 +5,7 @@ permalink: "/about/"
 tags: about
 ---
 
-Hi, I'm Vijay Vankhede having over 5 years experience of writing Android applications and SDKs from the scratch, with a passion for good design & code quality.  
+Hi, I'm Vijay Vankhede having over 5 years experience of writing Android applications and SDKs from scratch, with a passion for good design & code quality.  
 
 You can check my web presence and resume linked below.
 
